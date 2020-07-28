@@ -1,0 +1,2 @@
+D:\Development\GameServer\GameServerProg\x64\Debug\GameServerProg.exe
+D:\Development\GameServer\GameServerProg\x64\Debug\GameServerProg.pdb
